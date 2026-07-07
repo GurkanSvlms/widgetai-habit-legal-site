@@ -1,4 +1,4 @@
-# Daily Routine: Habit Widget Legal Site
+# Habitile Legal Site
 
 Static legal and support pages for GitHub Pages.
 
